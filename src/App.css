@@ -1,75 +1,74 @@
 /* App.css */
 body {
-    background-color: #f0f8ff;
-    font-family: 'Arial', sans-serif;
-    color: #333;
-  }
-  
-  .App {
-    text-align: center;
-    padding: 20px;
-  }
-  
-  h1 {
-    font-size: 2.5em;
-    color: #4a90e2;
-  }
-  
-  .mode-selection {
-    margin: 20px 0;
-  }
-  
-  .mode-selection button {
-    background-color: #4a90e2;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    margin: 0 10px;
-    font-size: 1.2em;
-    cursor: pointer;
-    border-radius: 5px;
-  }
-  
-  .mode-selection button:hover {
-    background-color: #357ab7;
-  }
-  
-  .mode-content {
-    margin-top: 30px;
-  }
-  
-  h2 {
-    color: #4a90e2;
-    margin-bottom: 20px;
-  }
-  
-  p {
-    font-size: 1.2em;
-  }
-  
-  input[type="text"] {
-    padding: 5px;
-    font-size: 1em;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    margin-right: 10px;
-  }
-  
-  button {
-    background-color: #4a90e2;
-    color: white;
-    border: none;
-    padding: 10px 15px;
-    cursor: pointer;
-    border-radius: 3px;
-  }
-  
-  button:hover {
-    background-color: #357ab7;
-  }
-  
-  #easy-result, #moderate-result, #hard-result {
-    margin-top: 15px;
-    font-size: 1.2em;
-  }
-  
+  background-color: #f0f8ff;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #4a90e2;
+}
+
+.mode-selection {
+  margin: 20px 0;
+}
+
+.mode-selection button {
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  font-size: 1.2em;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.mode-selection button:hover {
+  background-color: #357ab7;
+}
+
+.mode-content {
+  margin-top: 30px;
+}
+
+h2 {
+  color: #4a90e2;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+input[type="text"] {
+  padding: 5px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-right: 10px;
+}
+
+button {
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+button:hover {
+  background-color: #357ab7;
+}
+
+#easy-result, #moderate-result, #hard-result {
+  margin-top: 15px;
+  font-size: 1.2em;
+}
